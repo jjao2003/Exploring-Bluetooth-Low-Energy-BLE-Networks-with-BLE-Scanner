@@ -4,7 +4,6 @@
 **Exercise:** 3.3  
 **Student:** Agozie Joel Onuigbo  
 **Tool Used:** BLE Scanner (Android)  
-**Submission:** GitHub Repository Link (via Moodle)
 
 ---
 
