@@ -1,0 +1,41 @@
+# BLE Data Collection Results
+
+This document contains the raw data captured during the scanning sessions.
+
+## 1. Environment: Corridor
+*Observations: Most devices detected were at a distance of >40m, suggesting a long line-of-sight availability.*
+
+| Device Name | MAC/Identifier | RSSI (dBm) | Est. Distance |
+| :--- | :--- | :--- | :--- |
+| TV | DE:23:4E:9D:C7:A1 | -87 | 44.27 m |
+| fhw2_fb943c34... | 6D:68:5D:32:04:45 | -91 | 59.95 m |
+| N/A (Apple) | 4E:B0:21:7F:A3:F8 | -89 | 51.07 m |
+| N/A | 77:E1:9F:8E:2F:B4 | -76 | 14.13 m |
+
+![Corridor Scan](./screenshots/corridor.png)
+
+---
+
+## 2. Environment: Kitchen
+*Observations: Signal interference was noted, likely due to metal surfaces and kitchen electronics.*
+
+| Device Name | MAC/Identifier | RSSI (dBm) | Est. Distance |
+| :--- | :--- | :--- | :--- |
+| Philips 57944 | C1:DB:79:20:BD:1C | -75 | 13.00 m |
+| b1_E14PT33V_S1 | D0:E2:EE:9D:61:9F | -82 | 24.16 m |
+| N/A (Apple) | 26:93:17:73:96:D2 | -72 | 10.00 m |
+
+![Kitchen Scan](./screenshots/kitchen.png)
+
+---
+
+## 3. Environment: Room
+*Observations: Strongest signals were recorded here, including personal smartphones.*
+
+| Device Name | MAC/Identifier | RSSI (dBm) | Est. Distance |
+| :--- | :--- | :--- | :--- |
+| JEREMIAH'S Samsung | B1:E6:31:01:E3:6B | -67 | 5.61 m |
+| Philips 57945 | C1:E4:71:E5:58:3B | -83 | 28.31 m |
+| N/A | 65:31:6C:51:B1:91 | -83 | 28.31 m |
+
+![Room Scan](./screenshots/room.png)
