@@ -60,34 +60,36 @@ effects, while also reflecting on BLE security and privacy implications.
 
 ### 4.1 Room Scan Results
 
-| Device Name        | RSSI (dBm) | MAC Address / ID     | Estimated Device Type |
-|--------------------|------------|----------------------|-----------------------|
-| Galaxy Watch       | -42        | A4:7D:3F:XX:XX:01    | Wearable              |
-| Redmi Buds         | -50        | B9:21:AC:XX:XX:02    | Audio Device          |
-| Unknown Device     | -71        | Randomized           | Smartphone            |
-| BLE Beacon         | -65        | C1:9A:7D:XX:XX:03    | IoT / Beacon          |
-
+| Device Name        |  MAC Address / ID| Signal Strength (RSSI) |Estimated Distance |
+|--------------------|------------------|------------------------|-------------------|
+| TV | DE:23:4E:9D:C7:A1 | -87 dBm | 44.27 m |
+| fhw2_fb943c34190... | 6D:68:5D:32:04:45 | -91 dBm | 59.95 m |
+| N/A (Apple) | 4E:B0:21:7F:A3:F8 | -89 dBm | 51.07 m |
+| N/A | 77:E1:9F:8E:2F:B4 | -76 dBm | 14.13 m |
+| N/A | 61:0D:E3:1F:25:70 | -81 dBm | 21.41 m |
 ---
 
 ### 4.2 Kitchen Scan Results
 
-| Device Name        | RSSI (dBm) | MAC Address / ID     | Estimated Device Type |
-|--------------------|------------|----------------------|-----------------------|
-| Smart TV           | -55        | D8:4E:12:XX:XX:04    | Smart Appliance       |
-| Samsung Phone      | -60        | Randomized           | Smartphone            |
-| Fitness Tracker    | -48        | E2:8B:9F:XX:XX:05    | Wearable              |
-| Unknown Device     | -78        | Randomized           | IoT / Phone           |
+| Device Name        |  MAC Address / ID| Signal Strength (RSSI) |Estimated Distance |
+|--------------------|------------------|------------------------|-------------------|
+| Philips 57944 | C1:DB:79:20:BD:1C | -75 dBm | 13.00 m |
+| b1_E14PT33V_S1 | D0:E2:EE:9D:61:9F | -82 dBm | 24.16 m |
+| N/A (Apple) | 26:93:17:73:96:D2 | -72 dBm | 10.00 m |
+| N/A | 49:6F:11:00:83:8F | -85 dBm | 35.20 m |
+| N/A | 65:42:C2:59:B5:14 | -81 dBm | 21.20 m |
 
 ---
 
 ### 4.3 Corridor Scan Results
 
-| Device Name        | RSSI (dBm) | MAC Address / ID     | Estimated Device Type |
-|--------------------|------------|----------------------|-----------------------|
-| Smartphone         | -67        | Randomized           | Smartphone            |
-| BLE Beacon         | -72        | F3:19:7A:XX:XX:06    | Beacon                |
-| Unknown Device     | -85        | Randomized           | Distant BLE Device    |
-
+| Device Name        |  MAC Address / ID| Signal Strength (RSSI) |Estimated Distance |
+|--------------------|------------------|------------------------|-------------------|
+| JEREMIAH'S Samsung | B1:E6:31:01:E3:6B | -67 dBm | 5.61 m |
+| Philips 57945| C1:E4:71:E5:58:3B | -83 dBm | 28.31 m |
+| N/A (Apple) | 4F:04:1E:22:96:B3 | -88 dBm | 46.27 m |
+| N/A | 65:31:6C:51:B1:91 | -83 dBm | 28.31 m | 
+| N/A | 45:65:21:A2:35:E2 | -81 dBm | 21.41 m |
 ---
 
 ## 5. Screenshots
